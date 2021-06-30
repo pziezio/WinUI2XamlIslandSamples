@@ -1,0 +1,8 @@
+namespace MyUWPApp
+{
+    [default_interface]
+    runtimeclass MyUserControl : Windows.UI.Xaml.Controls.UserControl
+    {
+        MyUserControl();
+    }
+}
